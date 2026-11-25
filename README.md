@@ -29,4 +29,8 @@ Complete Transmid or plasmid nucleotide sequences, private construction records,
 
 ## Licence and data rights
 
-No licence is granted by this preliminary upload package. Confirm reuse rights for the derived animal-study data and choose a code licence before publishing the repository. Do not include raw source records without an independent disclosure review.
+The original Python and Stan analysis code in this repository is released under the MIT License (see `LICENSE`).
+
+The MIT License does not apply to the KWS BioTest-derived animal-study datasets. These data are included to support reproducibility of the Bayesian analysis, but their redistribution and reuse rights have not been independently confirmed.
+
+No rights to reuse or redistribute these datasets are granted by this repository. Original KWS source records and complete Transmid nucleotide sequences are not included.

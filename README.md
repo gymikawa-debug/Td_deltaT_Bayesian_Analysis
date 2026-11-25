@@ -25,7 +25,7 @@ The CSV files contain reduced numerical inputs, not original KWS workbooks. Anim
 
 ## Excluded intentionally
 
-Complete Transmid or plasmid nucleotide sequences, private construction records, original KWS reports and workbooks, unpublished plasmid maps, contact details, private Drive paths, email addresses, and exploratory NB08/NB09 population-fraction notebooks.
+Complete Transmid or plasmid nucleotide sequences, private construction records, original KWS reports and workbooks, unpublished plasmid maps, and exploratory NB08/NB09 population-fraction notebooks.
 
 ## Licence and data rights
 

@@ -35,6 +35,3 @@ No individual-level template or fabricated records are supplied.
 
 The models are exploratory. PE assumes negligible spontaneous resistance-plasmid loss in Transmid-negative recipients. GI assumes shared mean donor abundance within a sampling day, with prior-sensitive donor heterogeneity. Some measured selective-plate counts violate expected biological subset relationships. Later PE target and non-target observations were not time-matched. Figure 5 segment heights are normalised posterior medians and widths show between-animal SD, *not* density curves or credible intervals. These analyses cannot independently establish Transmid acquisition rates, molecular plasmid loss, or causal resensitisation rates.
 
-## Release review
-
-An automated audit found no email addresses, apparent credentials, absolute personal-machine paths, animal-level data CSVs, or compressed raw-data payloads in this package. This is a content check, not a legal determination of data ownership or publication rights. The author should verify rights to publish the derived group summaries and final Figure 5 with the study provider before making the repository public. No license is asserted for original animal data.

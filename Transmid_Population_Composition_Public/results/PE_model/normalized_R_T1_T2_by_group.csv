@@ -1,0 +1,13 @@
+group,quantity,aggregation,q025,median,q975,denominator
+Early — Target,R_fraction,mean,0.46473743010538665,0.6322213463470838,0.7831327786082934,estimated R + T2 for each animal
+Early — Target,T1_fraction,mean,0.0028422323178504036,0.007492921723801877,0.026997826524701396,estimated R + T2 for each animal
+Early — Target,T2_fraction,mean,0.21686722139170636,0.36777865365291607,0.5352625698946133,estimated R + T2 for each animal
+Early — Non-target,R_fraction,mean,0.10387564012209577,0.5758151895512238,0.7893681849443912,estimated R + T2 for each animal
+Early — Non-target,T1_fraction,mean,0.20109025403035244,0.4069876579566888,0.867271023256718,estimated R + T2 for each animal
+Early — Non-target,T2_fraction,mean,0.21063181505560866,0.4241848104487761,0.8961243598779042,estimated R + T2 for each animal
+Later — Target,R_fraction,mean,0.4353239904690428,0.5952683553157321,0.7418058528521674,estimated R + T2 for each animal
+Later — Target,T1_fraction,mean,0.006709509946245341,0.01611065125881033,0.06706423255232921,estimated R + T2 for each animal
+Later — Target,T2_fraction,mean,0.2581941471478326,0.404731644684268,0.5646760095309572,estimated R + T2 for each animal
+Later — Non-target,R_fraction,mean,0.13713426016009753,0.418449296431362,0.6677791309962074,estimated R + T2 for each animal
+Later — Non-target,T1_fraction,mean,0.2829385278021196,0.5464332535122444,0.8329463161761069,estimated R + T2 for each animal
+Later — Non-target,T2_fraction,mean,0.3322208690037925,0.581550703568638,0.8628657398399024,estimated R + T2 for each animal

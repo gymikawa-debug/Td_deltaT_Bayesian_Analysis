@@ -1,0 +1,5 @@
+scenario,max_Rhat,min_bulk_ESS,divergences,treedepth_hits,converged
+Baseline,1.00369,1913.5,0,0,True
+Location18,1.00241,2139.05,0,0,True
+Spread5,1.00203,2543.9,0,0,True
+SigmaPrior1,1.00465,1634.23,0,0,True
